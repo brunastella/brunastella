@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oi!! Eu sou a Bruna Stella Loureiro 👋
 
-<!--
-**brunastella/brunastella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Uma profissional em trasição de carreira para TI. Atualmente trabalhando como gerente em um café dentro de uma escola de música
+- 🌱 Fazendo faculdade de Análise e Desenvolvimento de Sistemas
+- 💬Aprendendo Java, JavaScript e Linux
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/brunastella">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunastella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunastella&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+ ![Snake animation](https://github.com/brunastella/brunastella/blob/output/github-contribution-grid-snake.svg)
+
+
+
