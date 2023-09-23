@@ -2,7 +2,8 @@
 
 - 🔭 Uma profissional em trasição de carreira para TI. Atualmente trabalhando como gerente em um café dentro de uma escola de música
 - 🌱 Fazendo faculdade de Análise e Desenvolvimento de Sistemas
-- 💬Aprendendo Java, JavaScript e Linux
+- 💬 Aprendendo Java, JavaScript e Linux
+- 💬 Conhecimento Básico em C, C# e HTML
 
 
 
